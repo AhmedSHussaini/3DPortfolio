@@ -123,14 +123,14 @@ import {
   
   const experiences = [
     {
-      title: "Map Analyst",
+      title: "Quality Analyst",
       company_name: "Lionbridge",
       icon: lionbridge,
       iconBg: "black",
       date: "February 2020 - January 2021",
       points: [
         "Analyzed and provided feedback on maps for leading search engines, using an online tool.",
-        "Determined relevance and accuracy of informaton by performing online research and referring to the provided guidelines."
+        "Determined relevance and accuracy of information by performing online research and referring to the provided guidelines."
       ],
     },
     {
