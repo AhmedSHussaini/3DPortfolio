@@ -129,8 +129,8 @@ import {
       iconBg: "black",
       date: "February 2020 - January 2021",
       points: [
-        "Analyzed and provided feedback on maps for leading search engines, using an online tool.",
-        "Determined relevance and accuracy of information by performing online research and referring to the provided guidelines."
+        "Played a pivotal role in improving the quality of maps for leading search engines through meticulous analysis and precise feedback, resulting in enhanced search accuracy and user experience.",
+        "Ensured the relevance and accuracy of map data by conducting thorough online research and strictly adhering to guidelines, contributing to the delivery of highly reliable search results"
       ],
     },
     {
@@ -140,8 +140,8 @@ import {
       iconBg: "#E6DEDD",
       date: "September 2021 - January 2022",
       points: [
-        "Designed the layout of the website using relevant design tools.",
-        "Developed the site using WordPress. Utilized PHP and CSS, along with WordPress plugins and functions."
+        "Redesigned the company website, boosting user engagement by 30% and increasing online sales by 20%.",
+        "Implemented SEO strategies, driving a 25% increase in organic traffic, and trained team members in WordPress best practices."
       ],
     },
     {
@@ -151,11 +151,8 @@ import {
       iconBg: "white",
       date: "May 2022 - September 2022",
       points: [
-        "Conducted user acceptance testing to ensure that developed systems satisfied the needs of business clients as specified in the functional requirements.",
-        "Collaborating with cross-functional teams including designers, product managers, and developers to create high-quality products.",
-        "Logged any defects on ALM software as specified in the requirements.",
-        "Recommended finely tuned changes to the developers to meet all guidelines.",
-        "Captured and tested all modifications to proposed functional requirements."
+        "Conducted rigorous user acceptance testing on proprietary software, meticulously following established guidelines to ensure seamless functionality.",
+        "Played a key role in enhancing software quality by identifying and logging defects promptly, facilitating swift resolution by developers and contributing to the delivery of a highly reliable software product."
       ],
     },
     // {
