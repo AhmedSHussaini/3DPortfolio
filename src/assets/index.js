@@ -28,7 +28,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import fcl from "./company/fcl.png";
 import hciLighting from "./company/hciLighting.png";
-import lionbridge from "./company/lionbridge.png"
+import lionbridge from "./company/lionbridge.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -37,42 +37,44 @@ import covidbackground from "./covidBackground.png";
 import geometrydodge from "./geometrydodge.png";
 import hcilighting from "./hcilighting.png";
 import traveladvisorbackground from "./TravelAdvisorBackground.png";
+import carshowcase from "./carShowcase.png";
 
 export {
-  logo,
-  backend,
-  creator,
-  mobile,
-  web,
-  github,
-  openlink,
-  menu,
-  close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  fcl,
-  hciLighting,
-  lionbridge,
-  carrent,
-  jobit,
-  tripguide,
-  covidbackground,
-  geometrydodge,
-  hcilighting,
-  traveladvisorbackground
+    logo,
+    backend,
+    creator,
+    mobile,
+    web,
+    github,
+    openlink,
+    menu,
+    close,
+    css,
+    docker,
+    figma,
+    git,
+    html,
+    javascript,
+    mongodb,
+    nodejs,
+    reactjs,
+    redux,
+    tailwind,
+    typescript,
+    threejs,
+    meta,
+    shopify,
+    starbucks,
+    tesla,
+    fcl,
+    hciLighting,
+    lionbridge,
+    carrent,
+    jobit,
+    tripguide,
+    covidbackground,
+    geometrydodge,
+    hcilighting,
+    traveladvisorbackground,
+    carshowcase,
 };
