@@ -29,6 +29,7 @@ import tesla from "./company/tesla.png";
 import fcl from "./company/fcl.png";
 import hciLighting from "./company/hciLighting.png";
 import lionbridge from "./company/lionbridge.png";
+import liimrasoft  from "./company/liimrasoft.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -69,6 +70,7 @@ export {
     fcl,
     hciLighting,
     lionbridge,
+    liimrasoft,
     carrent,
     jobit,
     tripguide,

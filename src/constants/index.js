@@ -31,6 +31,7 @@ import {
     hcilighting,
     traveladvisorbackground,
     carshowcase,
+    liimrasoft
 } from "../assets";
 
 export const navLinks = [
@@ -135,40 +136,42 @@ const experiences = [
         ],
     },
     {
-        title: "Wordpress Designer and Developer",
+        title: "Web Developer and Designer",
         company_name: "HCI Lighting",
         icon: hciLighting,
         iconBg: "#E6DEDD",
         date: "September 2021 - January 2022",
         points: [
             "Redesigned the company website, boosting user engagement by 30% and increasing online sales by 20%.",
-            "Implemented SEO strategies, driving a 25% increase in organic traffic, and trained team members in WordPress best practices.",
+            "Implemented and executed effective SEO strategies, contributing to a 25% surge in organic traffic.",
+            "Provided leadership by training team members in WordPress best practices",
         ],
     },
     {
-        title: "UAT OMS Tester",
+        title: "Software Quality Assurance Engineer",
         company_name: "Federated Co-operatives Limited",
         icon: fcl,
         iconBg: "white",
         date: "May 2022 - September 2022",
         points: [
-            "Conducted rigorous user acceptance testing on proprietary software, meticulously following established guidelines to ensure seamless functionality.",
-            "Played a key role in enhancing software quality by identifying and logging defects promptly, facilitating swift resolution by developers and contributing to the delivery of a highly reliable software product.",
+            "Conducted rigorous user acceptance testing and quality assurance testing for proprietary software, ensuring adherence to established guidelines.",
+            "Enhanced software quality by identifying and meticulously logging defects, accelerating resolution by close collaboration with development teams.",
+            "Played a key role in delivering a highly reliable software product, employing strategic testing methodologies and defect management."
         ],
     },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
+    {
+        title: "Full stack Developer",
+        company_name: "Liimrasoft Solutions LLC",
+        icon: liimrasoft,
+        iconBg: "#E6DEDD",
+        date: "September 2022 - September 2023",
+        points: [
+            "Developed and maintained web applications using React and Node.js.",
+            "Designed and implemented Restful APIs using Express and MongoDB.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Utilized Git for version control and collaborated with cross-functional teams to ensure seamless integration of front-end and back-end components.",
+        ],
+    },
 ];
 
 const testimonials = [
